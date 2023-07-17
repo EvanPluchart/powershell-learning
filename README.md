@@ -2,10 +2,12 @@
 ***
 
 ## Table of Contents
-1. [General Info](#general-info)
-2. [Technologies](#technologies)
-3. [Installation](#installation)
-4. [FAQs](#faqs)
+- [Project to learn Powershell](#project-to-learn-powershell)
+  - [Table of Contents](#table-of-contents)
+  - [General Info](#general-info)
+  - [Technologies](#technologies)
+  - [Installation](#installation)
+  - [FAQs](#faqs)
 
 ## General Info
 ***
@@ -15,7 +17,7 @@ This project is to learn Powershell. I will be using this project to learn Power
 ***
 A list of technologies used within the project:
 * [Powershell](https://docs.microsoft.com/en-us/powershell/scripting/overview?view=powershell-7.1): Version 7.1
-* [Google Bard](https://google.qwiklabs.com/): Version 1.0
+* [Google Bard](https://bard.google.com): Version 1.0
 
 ## Installation
 ***
